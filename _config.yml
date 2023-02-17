@@ -17,9 +17,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author_profile: true
-      comments: true
-      share: true
-      related: true
-      related_limit: 3
-      related_heading: "Related Posts"
+      author_profile: false
+      comments: false
+      share: false
+      related: false
