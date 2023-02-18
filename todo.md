@@ -1,7 +1,0 @@
-- Unity folder structure (https://i.imgur.com/fAoogud.png)
-- Setup Git LFS
-- Backup Rider Settings
-- Test Copilot/GPT in Unity (https://youtu.be/Wh_G8D-yn1M)
-- Tweak Windows settings
-- Risk, Reward, Stress/Tension, Relief blog post
-- Read: (https://www.reddit.com/r/gamedev/comments/10m8929/comment/j61ved0/?utm_source=reddit&utm_medium=web2x&context=3)
