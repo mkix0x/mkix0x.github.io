@@ -1,0 +1,11 @@
+baseURL = "https://mkix0x.com/"
+disableHugoGeneratorInject = true
+title = "mkix0x"
+theme = 'hugo-bearblog'
+
+[params]
+  favicon = "images/favicon-32x32.png"
+  images = ["images/mkix0x.png"]
+  title = "mkix0x"
+  hideMadeWithLine = true
+  dateFormat = "2006.01.02"

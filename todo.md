@@ -1,0 +1,3 @@
+- Unity folder structure (https://i.imgur.com/fAoogud.png)
+- Setup Git LFS
+- Test Copilot/GPT in Unity (https://youtu.be/Wh_G8D-yn1M)
