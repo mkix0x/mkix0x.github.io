@@ -6,6 +6,28 @@
     <description>Recent content in home on mkix0x</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://mkix0x.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Roadmap</title>
+      <link>https://mkix0x.com/roadmap/</link>
+      <pubDate>Mon, 20 Feb 2023 13:34:47 +0000</pubDate>
+      
+      <guid>https://mkix0x.com/roadmap/</guid>
+      <description>0.1.0 The game features movement, tree chopping, and axe throwing mechanics for players to interact with.
+Movement Throw Hit Land Spawn Die 0.1.1 Improvements to the core actions of the game.
+Movement
+Add dust effects to enhance the feeling of movement. Implement bounce sound and visual effects to improve visibility of the walking state. Add haptic feedback to provide a tactile sensation when moving. Throw
+Add trail effect for the axe to follow, making it easier for players to track its trajectory.</description>
+    </item>
+    
+    <item>
+      <title>Loop</title>
+      <link>https://mkix0x.com/loop/</link>
+      <pubDate>Mon, 20 Feb 2023 13:33:49 +0000</pubDate>
+      
+      <guid>https://mkix0x.com/loop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Finishing</title>
       <link>https://mkix0x.com/finishing/</link>
       <pubDate>Sun, 19 Feb 2023 02:30:26 +0000</pubDate>
