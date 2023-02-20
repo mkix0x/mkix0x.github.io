@@ -11,11 +11,10 @@
       <pubDate>Mon, 20 Feb 2023 13:34:47 +0000</pubDate>
       
       <guid>https://mkix0x.com/roadmap/</guid>
-      <description>0.1.0 The game features movement, tree chopping, and axe throwing mechanics for players to interact with.
-Movement Throw Hit Land Spawn Die 0.1.1 Improvements to the core actions of the game.
+      <description>Upcoming 0.1.1 Improvements to the core actions of the game.
 Movement
 Add dust effects to enhance the feeling of movement. Implement bounce sound and visual effects to improve visibility of the walking state. Add haptic feedback to provide a tactile sensation when moving. Throw
-Add trail effect for the axe to follow, making it easier for players to track its trajectory.</description>
+Add trail effect for the axe to follow, making it easier for players to track its trajectory. Add visual and sound effects as feedback that the axe was thrown.</description>
     </item>
     
     <item>
