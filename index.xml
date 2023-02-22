@@ -7,11 +7,23 @@
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://mkix0x.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Devlog</title>
-      <link>https://mkix0x.com/devlog/</link>
+      <link>https://mkix0x.com/devlog.2023.02.21/</link>
+      <pubDate>Tue, 21 Feb 2023 23:58:09 +0000</pubDate>
+      
+      <guid>https://mkix0x.com/devlog.2023.02.21/</guid>
+      <description>The holidays have come to an end, and it&amp;rsquo;s time to get back to work.
+Here&amp;rsquo;s a quick recap of yesterday&amp;rsquo;s important points: Define a clear outcome for each work session. Unfortunately, I completely failed on this point as I forgot to set a goal for myself when I started.
+Stick to a console application until the core progression loop is complete. On Track.
+Today was an interesting day as I had discussions on how to approach my game and why I wasn&amp;rsquo;t making progress despite knowing what I needed to do.</description>
+    </item>
+    
+    <item>
+      <title>Devlog</title>
+      <link>https://mkix0x.com/devlog.2023.02.20/</link>
       <pubDate>Mon, 20 Feb 2023 21:15:09 +0000</pubDate>
       
-      <guid>https://mkix0x.com/devlog/</guid>
-      <description>2023.02.20 Today I started a new project - the same game I&amp;rsquo;ve been working on for a while.
+      <guid>https://mkix0x.com/devlog.2023.02.20/</guid>
+      <description>Today I started a new project - the same game I&amp;rsquo;ve been working on for a while.
 Perhaps unconsciously, I believed that starting a fresh project would inspire some motivation and optimism. However, I have fallen into the same trap. I found myself once again fine-tuning basic actions instead of focusing on the bigger picture.
 It&amp;rsquo;s easy to get caught up in the thrill of quick bursts of dopamine from making minor improvements, but this doesn&amp;rsquo;t bring me any closer to actually releasing the game.</description>
     </item>
