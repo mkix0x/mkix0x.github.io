@@ -22,6 +22,7 @@
 	<s:Boolean x:Key="/Default/CodeEditing/ContextActionTable/DisabledContextActions/=JetBrains_002EReSharper_002EFeature_002EServices_002ECpp_002EIntentions_002ECppAddDefaultSpecifierAction/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeEditing/ContextActionTable/DisabledContextActions/=JetBrains_002EReSharper_002EFeature_002EServices_002ECpp_002EIntentions_002ECppAddDeleteSpecifierAction/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeEditing/ContextActionTable/DisabledContextActions/=JetBrains_002EReSharper_002EFeature_002EServices_002ECpp_002EIntentions_002ECppAddPureSpecifierAction/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeEditing/ContextActionTable/DisabledContextActions/=JetBrains_002EReSharper_002EFeature_002EServices_002ECpp_002EIntentions_002ECppApplyDeMorganLawAction/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeEditing/ContextActionTable/DisabledContextActions/=JetBrains_002EReSharper_002EFeature_002EServices_002ECpp_002EIntentions_002ECppConvertAngleBracketToQuotedIncludeAction/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeEditing/ContextActionTable/DisabledContextActions/=JetBrains_002EReSharper_002EFeature_002EServices_002ECpp_002EIntentions_002ECppConvertFromRawStringAction/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeEditing/ContextActionTable/DisabledContextActions/=JetBrains_002EReSharper_002EFeature_002EServices_002ECpp_002EIntentions_002ECppConvertIfToTernaryAction/@EntryIndexedValue">True</s:Boolean>
@@ -97,6 +98,7 @@
 	<s:Boolean x:Key="/Default/CodeEditing/ContextActionTable/DisabledContextActions/=JetBrains_002EReSharper_002EIntentions_002EHtml_002ETable_002EInsertTableColumnBeforeContextAction/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeEditing/ContextActionTable/DisabledContextActions/=JetBrains_002EReSharper_002EIntentions_002EHtml_002ETable_002EInsertTableRowAfterContextAction/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeEditing/ContextActionTable/DisabledContextActions/=JetBrains_002EReSharper_002EIntentions_002EHtml_002ETable_002EInsertTableRowBeforeContextAction/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeEditing/ContextActionTable/DisabledContextActions/=JetBrains_002EReSharper_002EIntentions_002ERazor_002EContextActions_002EComments_002EUncommentAction/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeEditing/ContextActionTable/DisabledContextActions/=JetBrains_002EReSharper_002EIntentions_002ERazor_002EContextActions_002ERazorBlockToLineMarkupContextAction/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeEditing/ContextActionTable/DisabledContextActions/=JetBrains_002EReSharper_002EIntentions_002ERazor_002EContextActions_002ERazorLineToBlockMarkupContextAction/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeEditing/ContextActionTable/DisabledContextActions/=JetBrains_002EReSharper_002EIntentions_002EVB_002EContextActions_002EAddOtherAccessorsAction/@EntryIndexedValue">True</s:Boolean>
@@ -548,6 +550,8 @@
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=CoVariantArrayConversion/@EntryIndexedValue">WARNING</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=CppLocalVariableMayBeConst/@EntryIndexedValue">HINT</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=CppMemberFunctionMayBeConst/@EntryIndexedValue">HINT</s:String>
+	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=CSharpBuildCSInvalidModuleName/@EntryIndexedValue">DO_NOT_SHOW</s:String>
+	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=CSharpMissingPluginDependency/@EntryIndexedValue">DO_NOT_SHOW</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=EnforceDoWhileStatementBraces/@EntryIndexedValue">WARNING</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=EnforceFixedStatementBraces/@EntryIndexedValue">WARNING</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=EnforceForeachStatementBraces/@EntryIndexedValue">WARNING</s:String>
@@ -562,7 +566,7 @@
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=FunctionComplexityOverflow/@EntryIndexedValue">WARNING</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=FunctionRecursiveOnAllPaths/@EntryIndexedValue">ERROR</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=IdentifierTypo/@EntryIndexedValue">DO_NOT_SHOW</s:String>
-	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=InconsistentNaming/@EntryIndexedValue">SUGGESTION</s:String>
+	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=InconsistentNaming/@EntryIndexedValue">HINT</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=IncorrectBlankLinesNearBraces/@EntryIndexedValue">DO_NOT_SHOW</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=InheritdocConsiderUsage/@EntryIndexedValue">DO_NOT_SHOW</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=InternalOrPrivateMemberNotDocumented/@EntryIndexedValue">WARNING</s:String>
@@ -575,6 +579,7 @@
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=MemberCanBeMadeStatic_002ELocal/@EntryIndexedValue">DO_NOT_SHOW</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=MemberCanBePrivate_002EGlobal/@EntryIndexedValue">DO_NOT_SHOW</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=MergeConditionalExpressionWhenPossible/@EntryIndexedValue">WARNING</s:String>
+	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=MergeIntoPattern/@EntryIndexedValue">DO_NOT_SHOW</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=MergeSequentialChecksWhenPossible/@EntryIndexedValue">WARNING</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=MissingBlankLines/@EntryIndexedValue">DO_NOT_SHOW</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=MissingIndent/@EntryIndexedValue">DO_NOT_SHOW</s:String>
@@ -585,6 +590,7 @@
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=NUnit_002EAttributeProducesTooManyTests/@EntryIndexedValue">WARNING</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=ObsoleteElement/@EntryIndexedValue">DO_NOT_SHOW</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=ObsoleteElementError/@EntryIndexedValue">DO_NOT_SHOW</s:String>
+	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=ParameterHidesMember/@EntryIndexedValue">HINT</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=ParameterTypeCanBeEnumerable_002EGlobal/@EntryIndexedValue">DO_NOT_SHOW</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=ParameterTypeCanBeEnumerable_002ELocal/@EntryIndexedValue">DO_NOT_SHOW</s:String>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=PossibleNullReferenceException/@EntryIndexedValue">DO_NOT_SHOW</s:String>
@@ -678,84 +684,10 @@
 	<s:Boolean x:Key="/Default/CodeInspection/Highlighting/StringHighlightingEnabled/@EntryValue">False</s:Boolean>
 	<s:String x:Key="/Default/CodeInspection/Highlighting/SweaWarningsMode/@EntryValue">DoNotShowAndRun</s:String>
 	<s:Boolean x:Key="/Default/CodeInspection/Roslyn/LegacySeveritiesMigrated/@EntryValue">True</s:Boolean>
-	<s:String x:Key="/Default/CodeStyle/CodeCleanup/Profiles/=MKCleanup/@EntryIndexedValue">&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;Profile name="MKCleanup"&gt;&lt;CppCodeStyleCleanupDescriptor ArrangeBraces="True" ArrangeAuto="True" ArrangeFunctionDeclarations="True" ArrangeNestedNamespaces="True" ArrangeTypeAliases="True" ArrangeCVQualifiers="True" ArrangeSlashesInIncludeDirectives="True" ArrangeOverridingFunctions="True" SortIncludeDirectives="True" SortMemberInitializers="True" /&gt;&lt;CSReorderTypeMembers&gt;True&lt;/CSReorderTypeMembers&gt;&lt;CSCodeStyleAttributes ArrangeVarStyle="True" ArrangeTypeAccessModifier="True" ArrangeTypeMemberAccessModifier="True" SortModifiers="True" ArrangeArgumentsStyle="True" RemoveRedundantParentheses="True" AddMissingParentheses="True" ArrangeBraces="True" ArrangeAttributes="True" ArrangeCodeBodyStyle="True" ArrangeTrailingCommas="True" ArrangeObjectCreation="True" ArrangeDefaultValue="True" ArrangeNamespaces="True" /&gt;&lt;RemoveCodeRedundancies&gt;True&lt;/RemoveCodeRedundancies&gt;&lt;CSUseAutoProperty&gt;True&lt;/CSUseAutoProperty&gt;&lt;CSMakeFieldReadonly&gt;True&lt;/CSMakeFieldReadonly&gt;&lt;CSMakeAutoPropertyGetOnly&gt;True&lt;/CSMakeAutoPropertyGetOnly&gt;&lt;CSArrangeQualifiers&gt;True&lt;/CSArrangeQualifiers&gt;&lt;CSFixBuiltinTypeReferences&gt;True&lt;/CSFixBuiltinTypeReferences&gt;&lt;CSOptimizeUsings&gt;&lt;OptimizeUsings&gt;True&lt;/OptimizeUsings&gt;&lt;/CSOptimizeUsings&gt;&lt;CSShortenReferences&gt;True&lt;/CSShortenReferences&gt;&lt;CSReformatCode&gt;True&lt;/CSReformatCode&gt;&lt;CSharpFormatDocComments&gt;True&lt;/CSharpFormatDocComments&gt;&lt;IDEA_SETTINGS&gt;&amp;lt;profile version="1.0"&amp;gt;&#xD;
-  &amp;lt;option name="myName" value="MKCleanup" /&amp;gt;&#xD;
-&amp;lt;/profile&amp;gt;&lt;/IDEA_SETTINGS&gt;&lt;RIDER_SETTINGS&gt;&amp;lt;profile&amp;gt;&#xD;
-  &amp;lt;Language id="EditorConfig"&amp;gt;&#xD;
-    &amp;lt;Reformat&amp;gt;true&amp;lt;/Reformat&amp;gt;&#xD;
-  &amp;lt;/Language&amp;gt;&#xD;
-  &amp;lt;Language id="HTML"&amp;gt;&#xD;
-    &amp;lt;Reformat&amp;gt;false&amp;lt;/Reformat&amp;gt;&#xD;
-    &amp;lt;OptimizeImports&amp;gt;false&amp;lt;/OptimizeImports&amp;gt;&#xD;
-    &amp;lt;Rearrange&amp;gt;false&amp;lt;/Rearrange&amp;gt;&#xD;
-  &amp;lt;/Language&amp;gt;&#xD;
-  &amp;lt;Language id="HTTP Request"&amp;gt;&#xD;
-    &amp;lt;Reformat&amp;gt;true&amp;lt;/Reformat&amp;gt;&#xD;
-  &amp;lt;/Language&amp;gt;&#xD;
-  &amp;lt;Language id="Ini"&amp;gt;&#xD;
-    &amp;lt;Reformat&amp;gt;true&amp;lt;/Reformat&amp;gt;&#xD;
-  &amp;lt;/Language&amp;gt;&#xD;
-  &amp;lt;Language id="JSON"&amp;gt;&#xD;
-    &amp;lt;Reformat&amp;gt;false&amp;lt;/Reformat&amp;gt;&#xD;
-  &amp;lt;/Language&amp;gt;&#xD;
-  &amp;lt;Language id="Markdown"&amp;gt;&#xD;
-    &amp;lt;Reformat&amp;gt;false&amp;lt;/Reformat&amp;gt;&#xD;
-  &amp;lt;/Language&amp;gt;&#xD;
-  &amp;lt;Language id="Properties"&amp;gt;&#xD;
-    &amp;lt;Reformat&amp;gt;true&amp;lt;/Reformat&amp;gt;&#xD;
-  &amp;lt;/Language&amp;gt;&#xD;
-  &amp;lt;Language id="RELAX-NG"&amp;gt;&#xD;
-    &amp;lt;Reformat&amp;gt;false&amp;lt;/Reformat&amp;gt;&#xD;
-  &amp;lt;/Language&amp;gt;&#xD;
-  &amp;lt;Language id="XML"&amp;gt;&#xD;
-    &amp;lt;Reformat&amp;gt;false&amp;lt;/Reformat&amp;gt;&#xD;
-    &amp;lt;OptimizeImports&amp;gt;false&amp;lt;/OptimizeImports&amp;gt;&#xD;
-    &amp;lt;Rearrange&amp;gt;false&amp;lt;/Rearrange&amp;gt;&#xD;
-  &amp;lt;/Language&amp;gt;&#xD;
-  &amp;lt;Language id="yaml"&amp;gt;&#xD;
-    &amp;lt;Reformat&amp;gt;true&amp;lt;/Reformat&amp;gt;&#xD;
-  &amp;lt;/Language&amp;gt;&#xD;
-&amp;lt;/profile&amp;gt;&lt;/RIDER_SETTINGS&gt;&lt;CSUpdateFileHeader&gt;True&lt;/CSUpdateFileHeader&gt;&lt;CppClangTidyCleanupDescriptor abseil-cleanup-ctad="True" abseil-duration-addition="True" abseil-duration-comparison="True" abseil-duration-conversion-cast="True" abseil-duration-division="True" abseil-duration-factory-float="True" abseil-duration-factory-scale="True" abseil-duration-subtraction="True" abseil-duration-unnecessary-conversion="True" abseil-faster-strsplit-delimiter="True" abseil-redundant-strcat-calls="True" abseil-str-cat-append="True" abseil-string-find-startswith="True" abseil-string-find-str-contains="True" abseil-time-comparison="True" abseil-time-subtraction="True" abseil-upgrade-duration-conversions="True" android-cloexec-accept="True" android-cloexec-creat="True" android-cloexec-dup="True" android-cloexec-epoll-create="True" android-cloexec-epoll-create1="True" android-cloexec-fopen="True" android-cloexec-inotify-init="True" android-cloexec-inotify-init1="True" android-cloexec-memfd-create="True" android-cloexec-open="True" android-cloexec-pipe="True" boost-use-to-string="True" bugprone-argument-comment="True" bugprone-bool-pointer-implicit-conversion="True" bugprone-copy-constructor-init="True" bugprone-implicit-widening-of-multiplication-result="True" bugprone-inaccurate-erase="True" bugprone-macro-parentheses="True" bugprone-misplaced-operator-in-strlen-in-alloc="True" bugprone-misplaced-pointer-arithmetic-in-alloc="True" bugprone-move-forwarding-reference="True" bugprone-not-null-terminated-result="True" bugprone-parent-virtual-call="True" bugprone-posix-return="True" bugprone-redundant-branch-condition="True" bugprone-reserved-identifier="True" bugprone-string-constructor="True" bugprone-string-integer-assignment="True" bugprone-stringview-nullptr="True" bugprone-suspicious-memset-usage="True" bugprone-suspicious-semicolon="True" bugprone-suspicious-string-compare="True" bugprone-swapped-arguments="True" bugprone-terminating-continue="True" bugprone-unused-raii="True" bugprone-virtual-near-miss="True" cert-dcl03-c="True" cert-dcl16-c="True" cert-dcl21-cpp="True" cert-oop11-cpp="True" cppcoreguidelines-explicit-virtual-functions="True" cppcoreguidelines-init-variables="True" cppcoreguidelines-prefer-member-initializer="True" cppcoreguidelines-pro-bounds-constant-array-index="True" cppcoreguidelines-pro-type-cstyle-cast="True" cppcoreguidelines-pro-type-member-init="True" cppcoreguidelines-pro-type-static-cast-downcast="True" cppcoreguidelines-virtual-class-destructor="True" darwin-dispatch-once-nonstatic="True" fuchsia-default-arguments-declarations="True" fuchsia-restrict-system-includes="True" google-build-explicit-make-pair="True" google-explicit-constructor="True" google-objc-avoid-nsobject-new="True" google-objc-function-naming="True" google-readability-braces-around-statements="True" google-readability-casting="True" google-readability-redundant-smartptr-get="True" google-readability-todo="True" google-upgrade-googletest-case="True" hicpp-braces-around-statements="True" hicpp-deprecated-headers="True" hicpp-explicit-conversions="True" hicpp-member-init="True" hicpp-move-const-arg="True" hicpp-named-parameter="True" hicpp-static-assert="True" hicpp-uppercase-literal-suffix="True" hicpp-use-auto="True" hicpp-use-emplace="True" hicpp-use-equals-default="True" hicpp-use-equals-delete="True" hicpp-use-noexcept="True" hicpp-use-nullptr="True" hicpp-use-override="True" llvm-else-after-return="True" llvm-header-guard="True" llvm-include-order="True" llvm-prefer-isa-or-dyn-cast-in-conditionals="True" llvm-prefer-register-over-unsigned="True" llvm-qualified-auto="True" llvm-twine-local="True" llvmlibc-restrict-system-libc-headers="True" misc-definitions-in-headers="True" misc-macro-parentheses="True" misc-redundant-expression="True" misc-static-assert="True" misc-string-compare="True" misc-string-integer-assignment="True" misc-suspicious-string-compare="True" misc-uniqueptr-reset-release="True" misc-unused-alias-decls="True" misc-unused-parameters="True" misc-unused-raii="True" misc-unused-using-decls="True" modernize-avoid-bind="True" modernize-concat-nested-namespaces="True" modernize-deprecated-headers="True" modernize-deprecated-ios-base-aliases="True" modernize-loop-convert="True" modernize-make-shared="True" modernize-make-unique="True" modernize-pass-by-value="True" modernize-raw-string-literal="True" modernize-redundant-void-arg="True" modernize-replace-auto-ptr="True" modernize-replace-disallow-copy-and-assign-macro="True" modernize-replace-random-shuffle="True" modernize-return-braced-init-list="True" modernize-shrink-to-fit="True" modernize-use-auto="True" modernize-use-bool-literals="True" modernize-use-default-member-init="True" modernize-use-emplace="True" modernize-use-equals-default="True" modernize-use-equals-delete="True" modernize-use-nodiscard="True" modernize-use-noexcept="True" modernize-use-nullptr="True" modernize-use-override="True" modernize-use-trailing-return-type="True" modernize-use-uncaught-exceptions="True" modernize-use-using="True" objc-assert-equals="True" objc-property-declaration="True" objc-super-self="True" performance-faster-string-find="True" performance-for-range-copy="True" performance-inefficient-algorithm="True" performance-inefficient-vector-operation="True" performance-move-const-arg="True" performance-move-constructor-init="True" performance-noexcept-move-constructor="True" performance-trivially-destructible="True" performance-type-promotion-in-math-fn="True" performance-unnecessary-value-param="True" portability-restrict-system-includes="True" readability-braces-around-statements="True" readability-const-return-type="True" readability-container-contains="True" readability-container-data-pointer="True" readability-container-size-empty="True" readability-convert-member-functions-to-static="True" readability-delete-null-pointer="True" readability-duplicate-include="True" readability-else-after-return="True" readability-identifier-naming="True" readability-implicit-bool-conversion="True" readability-inconsistent-declaration-parameter-name="True" readability-isolate-declaration="True" readability-make-member-function-const="True" readability-misplaced-array-index="True" readability-named-parameter="True" readability-non-const-parameter="True" readability-qualified-auto="True" readability-redundant-access-specifiers="True" readability-redundant-control-flow="True" readability-redundant-declaration="True" readability-redundant-function-ptr-dereference="True" readability-redundant-member-init="True" readability-redundant-smartptr-get="True" readability-redundant-string-cstr="True" readability-redundant-string-init="True" readability-simplify-boolean-expr="True" readability-simplify-subscript-expr="True" readability-static-accessed-through-instance="True" readability-static-definition-in-anonymous-namespace="True" readability-string-compare="True" readability-uniqueptr-delete-release="True" readability-uppercase-literal-suffix="True" other-fixits="True" /&gt;&lt;XAMLCollapseEmptyTags&gt;False&lt;/XAMLCollapseEmptyTags&gt;&lt;CppReformatCode&gt;True&lt;/CppReformatCode&gt;&lt;CppAddTypenameTemplateKeywords&gt;True&lt;/CppAddTypenameTemplateKeywords&gt;&lt;CppJoinDeclarationAndAssignmentDescriptor&gt;True&lt;/CppJoinDeclarationAndAssignmentDescriptor&gt;&lt;CppMakeLocalVarConstDescriptor&gt;True&lt;/CppMakeLocalVarConstDescriptor&gt;&lt;CppMakeMethodConst&gt;True&lt;/CppMakeMethodConst&gt;&lt;CppMakeMethodStatic&gt;True&lt;/CppMakeMethodStatic&gt;&lt;CppRemoveCastDescriptor&gt;True&lt;/CppRemoveCastDescriptor&gt;&lt;CppRemoveElseKeyword&gt;True&lt;/CppRemoveElseKeyword&gt;&lt;CppRemoveElaboratedTypeSpecifierDescriptor&gt;True&lt;/CppRemoveElaboratedTypeSpecifierDescriptor&gt;&lt;CppRemoveRedundantLambdaParameterListDescriptor&gt;True&lt;/CppRemoveRedundantLambdaParameterListDescriptor&gt;&lt;CppRemoveRedundantMemberInitializerDescriptor&gt;True&lt;/CppRemoveRedundantMemberInitializerDescriptor&gt;&lt;CppRemoveRedundantParentheses&gt;True&lt;/CppRemoveRedundantParentheses&gt;&lt;CppShortenQualifiedName&gt;True&lt;/CppShortenQualifiedName&gt;&lt;CppDeleteRedundantSpecifier&gt;True&lt;/CppDeleteRedundantSpecifier&gt;&lt;CppRemoveStatement&gt;True&lt;/CppRemoveStatement&gt;&lt;CppRemoveTemplateArgumentsDescriptor&gt;True&lt;/CppRemoveTemplateArgumentsDescriptor&gt;&lt;CppDeleteRedundantTypenameTemplateKeywords&gt;True&lt;/CppDeleteRedundantTypenameTemplateKeywords&gt;&lt;CppRemoveUnreachableCode&gt;True&lt;/CppRemoveUnreachableCode&gt;&lt;CppRemoveUnusedIncludes&gt;True&lt;/CppRemoveUnusedIncludes&gt;&lt;CppRemoveUnusedLambdaCaptures&gt;True&lt;/CppRemoveUnusedLambdaCaptures&gt;&lt;CppCStyleToStaticCastDescriptor&gt;True&lt;/CppCStyleToStaticCastDescriptor&gt;&lt;CppReplaceExpressionWithBooleanConst&gt;True&lt;/CppReplaceExpressionWithBooleanConst&gt;&lt;CppMakeIfConstexpr&gt;True&lt;/CppMakeIfConstexpr&gt;&lt;CppMakePostfixOperatorPrefix&gt;True&lt;/CppMakePostfixOperatorPrefix&gt;&lt;CppChangeSmartPointerToMakeFunction&gt;True&lt;/CppChangeSmartPointerToMakeFunction&gt;&lt;CppReplaceThrowWithRethrowFix&gt;True&lt;/CppReplaceThrowWithRethrowFix&gt;&lt;CppTypeTraitAliasDescriptor&gt;True&lt;/CppTypeTraitAliasDescriptor&gt;&lt;CppReplaceExpressionWithNullptr&gt;True&lt;/CppReplaceExpressionWithNullptr&gt;&lt;CppReplaceTieWithStructuredBindingDescriptor&gt;True&lt;/CppReplaceTieWithStructuredBindingDescriptor&gt;&lt;CppUseAssociativeContainsDescriptor&gt;True&lt;/CppUseAssociativeContainsDescriptor&gt;&lt;CppUseEraseAlgorithmDescriptor&gt;True&lt;/CppUseEraseAlgorithmDescriptor&gt;&lt;CppUpdateFileHeader&gt;True&lt;/CppUpdateFileHeader&gt;&lt;/Profile&gt;</s:String>
-	<s:String x:Key="/Default/CodeStyle/CodeCleanup/Profiles/=mki/@EntryIndexedValue">&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;Profile name="mki"&gt;&lt;CppCodeStyleCleanupDescriptor /&gt;&lt;CSReorderTypeMembers&gt;True&lt;/CSReorderTypeMembers&gt;&lt;CSCodeStyleAttributes ArrangeVarStyle="True" ArrangeTypeAccessModifier="True" ArrangeTypeMemberAccessModifier="True" SortModifiers="True" ArrangeArgumentsStyle="True" RemoveRedundantParentheses="True" AddMissingParentheses="True" ArrangeBraces="True" ArrangeAttributes="True" ArrangeTrailingCommas="True" ArrangeObjectCreation="True" ArrangeDefaultValue="True" ArrangeNamespaces="True" /&gt;&lt;RemoveCodeRedundancies&gt;True&lt;/RemoveCodeRedundancies&gt;&lt;CSUseAutoProperty&gt;True&lt;/CSUseAutoProperty&gt;&lt;CSMakeFieldReadonly&gt;True&lt;/CSMakeFieldReadonly&gt;&lt;CSMakeAutoPropertyGetOnly&gt;True&lt;/CSMakeAutoPropertyGetOnly&gt;&lt;CSArrangeQualifiers&gt;True&lt;/CSArrangeQualifiers&gt;&lt;CSFixBuiltinTypeReferences&gt;True&lt;/CSFixBuiltinTypeReferences&gt;&lt;CSOptimizeUsings&gt;&lt;OptimizeUsings&gt;True&lt;/OptimizeUsings&gt;&lt;/CSOptimizeUsings&gt;&lt;CSShortenReferences&gt;True&lt;/CSShortenReferences&gt;&lt;CSReformatCode&gt;True&lt;/CSReformatCode&gt;&lt;IDEA_SETTINGS&gt;&amp;lt;profile version="1.0"&amp;gt;&#xD;
-  &amp;lt;option name="myName" value="mki" /&amp;gt;&#xD;
-&amp;lt;/profile&amp;gt;&lt;/IDEA_SETTINGS&gt;&lt;RIDER_SETTINGS&gt;&amp;lt;profile&amp;gt;&#xD;
-  &amp;lt;Language id="EditorConfig"&amp;gt;&#xD;
-    &amp;lt;Reformat&amp;gt;true&amp;lt;/Reformat&amp;gt;&#xD;
-  &amp;lt;/Language&amp;gt;&#xD;
-  &amp;lt;Language id="HTML"&amp;gt;&#xD;
-    &amp;lt;Reformat&amp;gt;false&amp;lt;/Reformat&amp;gt;&#xD;
-    &amp;lt;OptimizeImports&amp;gt;false&amp;lt;/OptimizeImports&amp;gt;&#xD;
-    &amp;lt;Rearrange&amp;gt;false&amp;lt;/Rearrange&amp;gt;&#xD;
-  &amp;lt;/Language&amp;gt;&#xD;
-  &amp;lt;Language id="HTTP Request"&amp;gt;&#xD;
-    &amp;lt;Reformat&amp;gt;true&amp;lt;/Reformat&amp;gt;&#xD;
-  &amp;lt;/Language&amp;gt;&#xD;
-  &amp;lt;Language id="Ini"&amp;gt;&#xD;
-    &amp;lt;Reformat&amp;gt;true&amp;lt;/Reformat&amp;gt;&#xD;
-  &amp;lt;/Language&amp;gt;&#xD;
-  &amp;lt;Language id="JSON"&amp;gt;&#xD;
-    &amp;lt;Reformat&amp;gt;true&amp;lt;/Reformat&amp;gt;&#xD;
-  &amp;lt;/Language&amp;gt;&#xD;
-  &amp;lt;Language id="Markdown"&amp;gt;&#xD;
-    &amp;lt;Reformat&amp;gt;true&amp;lt;/Reformat&amp;gt;&#xD;
-  &amp;lt;/Language&amp;gt;&#xD;
-  &amp;lt;Language id="Properties"&amp;gt;&#xD;
-    &amp;lt;Reformat&amp;gt;true&amp;lt;/Reformat&amp;gt;&#xD;
-  &amp;lt;/Language&amp;gt;&#xD;
-  &amp;lt;Language id="RELAX-NG"&amp;gt;&#xD;
-    &amp;lt;Reformat&amp;gt;false&amp;lt;/Reformat&amp;gt;&#xD;
-  &amp;lt;/Language&amp;gt;&#xD;
-  &amp;lt;Language id="XML"&amp;gt;&#xD;
-    &amp;lt;Reformat&amp;gt;false&amp;lt;/Reformat&amp;gt;&#xD;
-    &amp;lt;OptimizeImports&amp;gt;false&amp;lt;/OptimizeImports&amp;gt;&#xD;
-    &amp;lt;Rearrange&amp;gt;false&amp;lt;/Rearrange&amp;gt;&#xD;
-  &amp;lt;/Language&amp;gt;&#xD;
-  &amp;lt;Language id="yaml"&amp;gt;&#xD;
-    &amp;lt;Reformat&amp;gt;true&amp;lt;/Reformat&amp;gt;&#xD;
-  &amp;lt;/Language&amp;gt;&#xD;
-&amp;lt;/profile&amp;gt;&lt;/RIDER_SETTINGS&gt;&lt;CppClangTidyCleanupDescriptor /&gt;&lt;ShaderLabReformatCode&gt;True&lt;/ShaderLabReformatCode&gt;&lt;XAMLCollapseEmptyTags&gt;False&lt;/XAMLCollapseEmptyTags&gt;&lt;/Profile&gt;</s:String>
-	<s:String x:Key="/Default/CodeStyle/CodeCleanup/RecentlyUsedProfile/@EntryValue">mki</s:String>
-	<s:String x:Key="/Default/CodeStyle/CodeCleanup/SilentCleanupProfile/@EntryValue">mki</s:String>
+	
+	
+	<s:String x:Key="/Default/CodeStyle/CodeCleanup/RecentlyUsedProfile/@EntryValue">Built-in: Full Cleanup</s:String>
+	<s:String x:Key="/Default/CodeStyle/CodeCleanup/SilentCleanupProfile/@EntryValue">Built-in: Full Cleanup</s:String>
 	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CommonFormatter/SHOW_AUTODETECT_CONFIGURE_FORMATTING_TIP/@EntryValue">False</s:Boolean>
 	<s:Int64 x:Key="/Default/CodeStyle/CodeFormatting/CppFormatting/BLANK_LINES_AROUND_FUNCTION_DECLARATION/@EntryValue">1</s:Int64>
 	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CppFormatting/CONTINUOUS_LINE_INDENT/@EntryValue">None</s:String>
@@ -771,23 +703,25 @@
 	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpCodeStyle/BRACES_FOR_FOR/@EntryValue">Required</s:String>
 	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpCodeStyle/BRACES_FOR_FOREACH/@EntryValue">Required</s:String>
 	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpCodeStyle/BRACES_FOR_WHILE/@EntryValue">Required</s:String>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpCodeStyle/BRACES_REDUNDANT/@EntryValue">False</s:Boolean>
 	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpCodeStyle/DEFAULT_INTERNAL_MODIFIER/@EntryValue">Implicit</s:String>
 	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpCodeStyle/DEFAULT_PRIVATE_MODIFIER/@EntryValue">Implicit</s:String>
 	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpCodeStyle/METHOD_OR_OPERATOR_BODY/@EntryValue">ExpressionBody</s:String>
 	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpCodeStyle/MODIFIERS_ORDER/@EntryValue">public protected internal private new static readonly abstract virtual sealed override extern unsafe volatile async</s:String>
 	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpCodeStyle/NAMESPACE_BODY/@EntryValue">BlockScoped</s:String>
 	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpCodeStyle/OBJECT_CREATION_WHEN_TYPE_NOT_EVIDENT/@EntryValue">TargetTyped</s:String>
-	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpCodeStyle/TRAILING_COMMA_IN_MULTILINE_LISTS/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpCodeStyle/PARENTHESES_REDUNDANCY_STYLE/@EntryValue">Remove</s:String>
+	
 	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpCodeStyle/ThisQualifier/INSTANCE_MEMBERS_QUALIFY_DECLARED_IN/@EntryValue">0</s:String>
 	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/ALIGNMENT_TAB_FILL_STYLE/@EntryValue">USE_TABS_ONLY</s:String>
 	<s:Int64 x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/BLANK_LINES_AFTER_CONTROL_TRANSFER_STATEMENTS/@EntryValue">1</s:Int64>
-	<s:Int64 x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/BLANK_LINES_AFTER_MULTILINE_STATEMENTS/@EntryValue">1</s:Int64>
+	
 	<s:Int64 x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/BLANK_LINES_AROUND_AUTO_PROPERTY/@EntryValue">0</s:Int64>
 	<s:Int64 x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/BLANK_LINES_AROUND_PROPERTY/@EntryValue">0</s:Int64>
 	<s:Int64 x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/BLANK_LINES_AROUND_SINGLE_LINE_TYPE/@EntryValue">0</s:Int64>
 	<s:Int64 x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/BLANK_LINES_BEFORE_BLOCK_STATEMENTS/@EntryValue">1</s:Int64>
 	<s:Int64 x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/BLANK_LINES_INSIDE_REGION/@EntryValue">0</s:Int64>
-	<s:Int64 x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/CONTINUOUS_INDENT_MULTIPLIER/@EntryValue">0</s:Int64>
+	
 	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/EMPTY_BLOCK_STYLE/@EntryValue">TOGETHER_SAME_LINE</s:String>
 	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INDENT_PARS/@EntryValue">NONE</s:String>
 	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INDENT_PREPROCESSOR_IF/@EntryValue">USUAL_INDENT</s:String>
@@ -795,12 +729,15 @@
 	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/INDENT_STYLE/@EntryValue">Tab</s:String>
 	<s:Int64 x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/KEEP_BLANK_LINES_IN_CODE/@EntryValue">0</s:Int64>
 	<s:Int64 x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/KEEP_BLANK_LINES_IN_DECLARATIONS/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/KEEP_EXISTING_DECLARATION_PARENS_ARRANGEMENT/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/KEEP_EXISTING_EXPR_MEMBER_ARRANGEMENT/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/KEEP_EXISTING_INVOCATION_PARENS_ARRANGEMENT/@EntryValue">False</s:Boolean>
 	<s:Int64 x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/MAX_ATTRIBUTE_LENGTH_FOR_SAME_LINE/@EntryValue">20</s:Int64>
 	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/PLACE_ACCESSOR_ATTRIBUTE_ON_SAME_LINE_EX/@EntryValue">NEVER</s:String>
 	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/PLACE_ACCESSORHOLDER_ATTRIBUTE_ON_SAME_LINE_EX/@EntryValue">NEVER</s:String>
 	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/PLACE_EXPR_ACCESSOR_ON_SINGLE_LINE/@EntryValue">ALWAYS</s:String>
 	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/PLACE_EXPR_PROPERTY_ON_SINGLE_LINE/@EntryValue">ALWAYS</s:String>
+	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/PLACE_FIELD_ATTRIBUTE_ON_SAME_LINE_EX/@EntryValue">NEVER</s:String>
 	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/PLACE_RECORD_FIELD_ATTRIBUTE_ON_SAME_LINE_EX/@EntryValue">NEVER</s:String>
 	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/PLACE_SIMPLE_ACCESSORHOLDER_ON_SINGLE_LINE/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/PLACE_SIMPLE_EMBEDDED_STATEMENT_ON_SAME_LINE/@EntryValue">NEVER</s:String>
@@ -808,9 +745,10 @@
 	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/SPACE_BETWEEN_ATTRIBUTE_SECTIONS/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/USE_CONTINUOUS_INDENT_INSIDE_INITIALIZER_BRACES/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/USE_CONTINUOUS_INDENT_INSIDE_PARENS/@EntryValue">False</s:Boolean>
-	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/WRAP_BEFORE_BINARY_OPSIGN/@EntryValue">True</s:Boolean>
+	
 	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/WRAP_BEFORE_EQ/@EntryValue">True</s:Boolean>
-	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/WRAP_CHAINED_BINARY_EXPRESSIONS/@EntryValue">CHOP_IF_LONG</s:String>
+	
+	<s:Int64 x:Key="/Default/CodeStyle/CodeFormatting/CSharpFormat/WRAP_LIMIT/@EntryValue">120</s:Int64>
 	<s:String x:Key="/Default/CodeStyle/CSharpFileLayoutPatterns/Pattern/@EntryValue">&lt;?xml version="1.0" encoding="utf-16"?&gt;
 &lt;Patterns xmlns="urn:schemas-jetbrains-com:member-reordering-patterns"&gt;
     &lt;TypePattern DisplayName="General classes"&gt;
@@ -1142,10 +1080,13 @@
 &lt;/Patterns&gt;</s:String>
 	<s:Boolean x:Key="/Default/CodeStyle/CSharpUsing/AllowAlias/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeStyle/CSharpUsing/CanUseGlobalAlias/@EntryValue">False</s:Boolean>
-	<s:Boolean x:Key="/Default/CodeStyle/CSharpVarKeywordUsage/PreferExplicitDiscardDeclaration/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/CodeStyle/CSharpVarKeywordUsage/ForBuiltInTypes/@EntryValue">UseVarWhenEvident</s:String>
+	
 	<s:Boolean x:Key="/Default/CodeStyle/EncapsulateField/MakeFieldPrivate/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeStyle/EncapsulateField/UpdateExternalUsagesOnly/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/CodeStyle/EncapsulateField/UseAutoProperty/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/Generate/=Formatting/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/CodeStyle/Generate/=Formatting/Options/=UseNameOf/@EntryIndexedValue">True</s:String>
 	<s:Boolean x:Key="/Default/CodeStyle/Generate/=Implementations/@KeyIndexDefined">True</s:Boolean>
 	<s:String x:Key="/Default/CodeStyle/Generate/=Implementations/Options/=Async/@EntryIndexedValue">False</s:String>
 	<s:String x:Key="/Default/CodeStyle/Generate/=Implementations/Options/=Mutable/@EntryIndexedValue">False</s:String>
@@ -1172,10 +1113,12 @@
 	<s:Boolean x:Key="/Default/Environment/ExternalSources/Decompiler/DecompilerLegalNoticeAccepted/@EntryValue">True</s:Boolean>
 	<s:String x:Key="/Default/Environment/Hierarchy/Build/Xamarin/AndroidSdkPath/@EntryValue">C:\Program Files (x86)\Android\android-sdk</s:String>
 	<s:String x:Key="/Default/Environment/Hierarchy/Build/Xamarin/JavaDevelopmentKitPath/@EntryValue">C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\</s:String>
-	<s:Int64 x:Key="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue">382</s:Int64>
+	<s:Int64 x:Key="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue">430</s:Int64>
 	<s:String x:Key="/Default/Environment/InlayHints/CSharpParameterNameHintsOptions/ShowParameterNameHints/@EntryValue">PushToShowHints</s:String>
 	<s:String x:Key="/Default/Environment/InlayHints/CSharpTypeNameHintsOptions/ShowTypeNameHintsForImplicitlyTypedVariables/@EntryValue">PushToShowHints</s:String>
+	<s:String x:Key="/Default/Environment/InlayHints/GeneralInlayHintsOptions/DefaultMode/@EntryValue">Never</s:String>
 	<s:Boolean x:Key="/Default/Environment/InlayHints/GeneralInlayHintsOptions/EnableInlayHints/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/InlayHints/GeneralInlayHintsOptions/EnablePushToHint/@EntryValue">False</s:Boolean>
 	<s:String x:Key="/Default/Environment/InlayHints/XamlInlayHintsOptions2/ShowCornerRadiusHints/@EntryValue">Never</s:String>
 	<s:String x:Key="/Default/Environment/InlayHints/XamlInlayHintsOptions2/ShowDataContextHints/@EntryValue">Never</s:String>
 	<s:String x:Key="/Default/Environment/InlayHints/XamlInlayHintsOptions2/ShowGridIndexHints/@EntryValue">Never</s:String>
@@ -1197,11 +1140,11 @@
 	<s:Boolean x:Key="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=TabNavigationExplainer/@EntryIndexedValue">True</s:Boolean>
 	<s:String x:Key="/Default/Housekeeping/FeedbackReport/SelectedUserIdentificator/@EntryValue">anonymous</s:String>
 	<s:Boolean x:Key="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue">True</s:Boolean>
-	<s:String x:Key="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue">CodeInspectionSettings</s:String>
+	<s:String x:Key="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue">InspectionSeverity</s:String>
 	<s:Boolean x:Key="/Default/Housekeeping/RiderFindResultsBrowser/Groupings/=AnimationEvent/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/RiderFindResultsBrowser/Groupings/=Animator/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/RiderFindResultsBrowser/Groupings/=Directory/@EntryIndexedValue">False</s:Boolean>
-	<s:Boolean x:Key="/Default/Housekeeping/RiderFindResultsBrowser/Groupings/=File/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Housekeeping/RiderFindResultsBrowser/Groupings/=File/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/RiderFindResultsBrowser/Groupings/=Project/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/RiderFindResultsBrowser/Groupings/=SectionType/@EntryIndexedValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/Housekeeping/RiderFindResultsBrowser/Groupings/=SolutionFolder/@EntryIndexedValue">False</s:Boolean>
@@ -1294,6 +1237,27 @@ private $type$ $fieldName$;
 public $type$ $propertyName$ =&gt; $fieldName$;$END$</s:String>
 	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A29A364DA116A549B2B95A7C96CF8AB6/Field/=propertyName/Expression/@EntryValue"></s:String>
 	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=A29A364DA116A549B2B95A7C96CF8AB6/Field/=type/InitialRange/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=0A4664ADE151C349B62FB87D8470A5D9/@KeyIndexDefined">False</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=24ED38F0A88634438CF3E90ED74911CF/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=24ED38F0A88634438CF3E90ED74911CF/Color/@EntryValue">#FFAA6424</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=24ED38F0A88634438CF3E90ED74911CF/MatchComments/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=24ED38F0A88634438CF3E90ED74911CF/Name/@EntryValue">(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=24ED38F0A88634438CF3E90ED74911CF/Pattern/@EntryValue">(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=24ED38F0A88634438CF3E90ED74911CF/TodoIconStyle/@EntryValue">Edit</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=2B7532E250E04B4FAB5E7F6051AF7CAA/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=2B7532E250E04B4FAB5E7F6051AF7CAA/Color/@EntryValue">#FFAA6424</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=2B7532E250E04B4FAB5E7F6051AF7CAA/MatchComments/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=2B7532E250E04B4FAB5E7F6051AF7CAA/Name/@EntryValue">(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=2B7532E250E04B4FAB5E7F6051AF7CAA/Pattern/@EntryValue">(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=2B7532E250E04B4FAB5E7F6051AF7CAA/TodoIconStyle/@EntryValue">Edit</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=4386F01B791C56499C7EA059B55FFB54/@KeyIndexDefined">False</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=5113936E0871624C812E31D8C6700146/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=5113936E0871624C812E31D8C6700146/Color/@EntryValue">#FFAA6424</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=5113936E0871624C812E31D8C6700146/MatchComments/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=5113936E0871624C812E31D8C6700146/Name/@EntryValue">\bNotImplementedException\b</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=5113936E0871624C812E31D8C6700146/Pattern/@EntryValue">\bNotImplementedException\b</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=5113936E0871624C812E31D8C6700146/TodoIconStyle/@EntryValue">Edit</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=961894CCC510410ABE2B99132B253C80/@KeyIndexDefined">False</s:Boolean>
 	<s:Boolean x:Key="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue">False</s:Boolean>
 	<s:Boolean x:Key="/Default/UserDictionary/Words/=Castable/@EntryIndexedValue">True</s:Boolean>
 	<s:Boolean x:Key="/Default/UserDictionary/Words/=Damageables/@EntryIndexedValue">True</s:Boolean>
